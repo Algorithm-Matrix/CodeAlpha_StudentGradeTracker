@@ -1,0 +1,10 @@
+# Default ignored files
+/../../CodeAlpha_StudentGradeTracker./.idea/shelf/
+/../../CodeAlpha_StudentGradeTracker./.idea/workspace.xml
+# Ignored default folder with query files
+/../../CodeAlpha_StudentGradeTracker./.idea/queries/
+# Datasource local storage ignored files
+/../../CodeAlpha_StudentGradeTracker./.idea/dataSources/
+/../../CodeAlpha_StudentGradeTracker./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../CodeAlpha_StudentGradeTracker./.idea/httpRequests/
